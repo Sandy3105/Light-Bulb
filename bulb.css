@@ -8,7 +8,7 @@ body{
     margin-top: 25vh;
 }
 .container{
-    background-color: blanchedalmond;
+    background-color:white;
     width: 50vw;
     height: 50vh;
     display: flex;
@@ -29,11 +29,12 @@ img{
 #on{
     background-color: chartreuse;
     width: 80px;
-    /* margin-left: 7vw; */
+    height: 40px;
+    margin-left: 3vw;
 }
 #off{
     background-color: rgb(89, 82, 180);
     width: 80px;
     margin-left: 25vw;
-
+    height: 40px;
 }
